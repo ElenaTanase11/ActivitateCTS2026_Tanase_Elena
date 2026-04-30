@@ -1,4 +1,4 @@
-package ro.ase.cts.clase;
+package cts.clase;
 
 public abstract class Supa implements FelDeMancare{
     int gramaj;

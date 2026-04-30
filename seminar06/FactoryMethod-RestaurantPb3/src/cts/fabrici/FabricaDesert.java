@@ -1,10 +1,10 @@
-package ro.ase.cts.fabrici;
+package cts.fabrici;
 
-import ro.ase.cts.clase.Clatite;
-import ro.ase.cts.clase.FelDeMancare;
-import ro.ase.cts.clase.Papanasi;
-import ro.ase.cts.enums.TipDesert;
-import ro.ase.cts.enums.TipFelDeMancare;
+import cts.clase.Clatite;
+import cts.clase.FelDeMancare;
+import cts.clase.Papanasi;
+import cts.enums.TipDesert;
+import cts.enums.TipFelDeMancare;
 
 public class FabricaDesert implements FabricaFelDeMancare{
     @Override

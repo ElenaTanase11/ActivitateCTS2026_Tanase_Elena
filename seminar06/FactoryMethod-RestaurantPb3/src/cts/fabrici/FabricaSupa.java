@@ -1,10 +1,10 @@
-package ro.ase.cts.fabrici;
+package cts.fabrici;
 
-import ro.ase.cts.clase.FelDeMancare;
-import ro.ase.cts.clase.SupaDeCiuperci;
-import ro.ase.cts.clase.SupaDeLegume;
-import ro.ase.cts.enums.TipFelDeMancare;
-import ro.ase.cts.enums.TipSupa;
+import cts.clase.FelDeMancare;
+import cts.clase.SupaDeCiuperci;
+import cts.clase.SupaDeLegume;
+import cts.enums.TipFelDeMancare;
+import cts.enums.TipSupa;
 
 public class FabricaSupa implements FabricaFelDeMancare{
     @Override

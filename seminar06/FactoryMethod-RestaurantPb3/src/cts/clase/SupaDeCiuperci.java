@@ -1,4 +1,4 @@
-package ro.ase.cts.clase;
+package cts.clase;
 
 public class SupaDeCiuperci extends Supa{
     public SupaDeCiuperci(int gramaj, double pret) {

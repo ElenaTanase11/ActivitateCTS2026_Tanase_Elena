@@ -1,4 +1,4 @@
-package ro.ase.cts.enums;
+package cts.enums;
 
 public enum TipSupa implements TipFelDeMancare {
     SupaDeLegume, SupaDeCiuperci

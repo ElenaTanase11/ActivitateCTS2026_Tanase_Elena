@@ -1,4 +1,4 @@
-package ro.ase.cts.clase;
+package cts.clase;
 
 public class Papanasi extends Desert{
     public Papanasi(int calorii, double pret, int gramaj) {

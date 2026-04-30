@@ -1,7 +1,7 @@
-package ro.ase.cts.fabrici;
+package cts.fabrici;
 
-import ro.ase.cts.clase.FelDeMancare;
-import ro.ase.cts.enums.TipFelDeMancare;
+import cts.clase.FelDeMancare;
+import cts.enums.TipFelDeMancare;
 
 public interface FabricaFelDeMancare {
     FelDeMancare creareFelDeMancare(TipFelDeMancare tip, int gramaj, double pret);
